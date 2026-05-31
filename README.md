@@ -1,2 +1,2 @@
 # System-Design
-Flowcharts for different systemsand softwares will be discussed
+Flowcharts for different systems and softwares will be discussed
